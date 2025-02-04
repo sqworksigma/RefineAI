@@ -48,7 +48,7 @@ RefineAI is a Windows Forms application that leverages the OpenAI API to refine 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sqworksigma/RefineAI/blob/main/LICENSE.txt) file for details.
 
 ## Contributing
 
