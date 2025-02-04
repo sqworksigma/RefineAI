@@ -1,0 +1,13 @@
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.csproj.AssemblyReference.cache
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.MainForm.resources
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.Properties.Resources.resources
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.csproj.GenerateResource.cache
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.csproj.CoreCompileInputs.cache
+C:\Users\gaming\Documents\RefineAI\RefineAI\bin\Debug\RefineAI.exe.config
+C:\Users\gaming\Documents\RefineAI\RefineAI\bin\Debug\RefineAI.exe
+C:\Users\gaming\Documents\RefineAI\RefineAI\bin\Debug\RefineAI.pdb
+C:\Users\gaming\Documents\RefineAI\RefineAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gaming\Documents\RefineAI\RefineAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.csproj.Up2Date
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.exe
+C:\Users\gaming\Documents\RefineAI\RefineAI\obj\Debug\RefineAI.pdb
