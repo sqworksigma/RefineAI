@@ -35,6 +35,11 @@ RefineAI is a Windows Forms application that leverages the OpenAI API to refine 
 
 ## Project Structure
 
+RefineAI/
+├── MainForm.cs       # Main Windows Forms application code
+├── README.md         # Project description and instructions
+├── .gitignore        # Git ignore file
+└── RefineAI.sln      # Visual Studio solution file
 
 
 
